@@ -1,4 +1,4 @@
-# ZendeskCodingChallenge
+# Zendesk Coding Challenge
 Dhyey Shah - dhyey2019@gmail.com
 
 This is the completed coding challenge for the Zendesk internship.
