@@ -2,8 +2,10 @@
 Dhyey Shah - dhyey2019@gmail.com
 
 This is the completed coding challenge for the Zendesk internship.
-The UI is a cli based but organized. If it seems that the output is formatted weirdly, widening the window should fix it.
+The program can be run by simply running python3 main_runner.py in the directory that contains these files.
+The UI is cli based but organized. If it seems that the output is formatted weirdly, widening the window should fix it.
 It was tested with my personal Zendesk account on OS X with Python 3.7 but should work on any Unix-based or Windows machine with Python 3.
+There are some basic unit tests in tests.py.
 The username, password, and subdomain of the Zendesk account you wish to test with can be entered at the top of the main_runner.py file.
 The program will display either one ticket if given a specific ticket id or all tickets in a page by page format where no page has more than 25 tickets.
 Below are some images of the running code that completes all the requirements.
