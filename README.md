@@ -1,7 +1,6 @@
 # Zendesk Coding Challenge
 Dhyey Shah - dhyey2019@gmail.com
 
-This is the completed coding challenge for the Zendesk internship.
 The program can be run by simply running python3 main_runner.py in the directory that contains these files.
 The UI is cli based but organized. If it seems that the output is formatted weirdly, widening the window should fix it.
 It was tested with my personal Zendesk account on OS X with Python 3.7 but should work on any Unix-based or Windows machine with Python 3.
