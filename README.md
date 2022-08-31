@@ -1,4 +1,4 @@
-# Zendesk Coding Challenge
+# Zendesk CLI Tool
 Dhyey Shah - dhyey2019@gmail.com
 
 The program can be run by simply running python3 main_runner.py in the directory that contains these files.
